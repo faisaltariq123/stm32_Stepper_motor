@@ -1,0 +1,19 @@
+Dependencies for Project 'proj1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f4xx.s)(0x4F852534)(--cpu Cortex-M4.fp -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F4xx --list "startup_stm32f4xx.lst" --xref -o "startup_stm32f4xx.o" --depend "startup_stm32f4xx.d")
+F (.\main.c)(0x68DFA87F)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F4xx -o "main.o" --omf_browse "main.crf" --depend "main.d")
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdio.h)(0x4EB0FCB6)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h)(0x4F852534)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x500653B2)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0FCB4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x505986BC)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDABE8C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x4F586716)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h)(0x4F852534)
+F (..\..\lab_helping\system_stm32f4xx.c)(0x5CB495BD)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F4xx -o "system_stm32f4xx.o" --omf_browse "system_stm32f4xx.crf" --depend "system_stm32f4xx.d")
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h)(0x4F852534)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x500653B2)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0FCB4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x505986BC)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDABE8C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x4F586716)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h)(0x4F852534)
